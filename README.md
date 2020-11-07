@@ -1,5 +1,5 @@
 ### LIBINPUT-GESTURES
-
+## (ngfuong) CONFIGURATION FILE IS CUSTOMIZED WITH XTE TO PREVENT LATENCY
 [Libinput-gestures][REPO] is a utility which reads [libinput
 gestures](https://wayland.freedesktop.org/libinput/doc/latest/gestures.html)
 from your touchpad and maps them to gestures you configure in a
